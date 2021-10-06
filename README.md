@@ -10,10 +10,10 @@ Subject is presented in the [en.subject.pdf](https://github.com/lavrenovamaria/4
 
 ## Usage 
 
-* `make` to compile this project.
+* `make` to compile this project.  
 * `./fractol <name>`  
   
-Names fractals:  
+Names fractals:
  - Mandelbrot  
  - Julia  
  - Burning Ship  
