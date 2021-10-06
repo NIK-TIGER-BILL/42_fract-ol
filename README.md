@@ -140,4 +140,4 @@ In order to receive input from keyboard/mouse/etc. in MiniLibX, you need to know
 ## Usage 
 
 * `make` to compile this project.
-* `./fractol_name`
+* `./fractol "name"`
