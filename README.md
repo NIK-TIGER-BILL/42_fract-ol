@@ -24,7 +24,7 @@ Names fractals:
 
 ## Julia
 
-<img width="400" alt="Julia" src="https://mathlair.allfunandgames.ca/images/julia_0.1_-0.755.png">
+<img width="400" alt="Julia" src="https://pixy.org/src/5/58149.jpg">
 
 # Burning Ship
 
