@@ -12,6 +12,7 @@ Subject is presented in the [en.subject.pdf](https://github.com/lavrenovamaria/4
 
 * `make` to compile this project.
 * `./fractol <name>`  
+  
 Names fractals:  
  - Mandelbrot  
  - Julia  
